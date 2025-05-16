@@ -45,3 +45,6 @@ return newNode;
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/f332d5d0-665b-4565-a8a7-40f1b61e5d86)
+
+## Result:
+Thus, the C code for the function createNode to traverse the graph below in the depth first fashion is implemented successfully
