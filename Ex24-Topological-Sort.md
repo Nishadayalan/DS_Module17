@@ -1,4 +1,4 @@
-# Ex24 Topological Sort
+# Ex 5D Topological Sort
 ## DATE:
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
@@ -21,8 +21,8 @@ To compose the code to determine whether the topological ordering for the follow
 ```
 /*
 Program to determine whether the topological ordering for the following graph is possible or not
-Developed by: GEDIPUDI DARSHANI
-RegisterNumber: 212223230062 
+Developed by: NISHA D
+RegisterNumber: 212223230143
 */
 
 //#include<stdio.h>
