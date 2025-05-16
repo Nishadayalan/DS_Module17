@@ -19,11 +19,11 @@ To compose the code to determine whether the topological ordering for the follow
 
 ## Program:
 ```
-/*
+
 Program to determine whether the topological ordering for the following graph is possible or not
 Developed by: NISHA D
 RegisterNumber: 212223230143
-*/
+
 
 //#include<stdio.h>
 //#include<stdlib.h>
