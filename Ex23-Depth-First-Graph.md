@@ -15,11 +15,11 @@ To compose the code for the function createNode to traverse the graph below in t
 
 ## Program:
 ```
-/*
+
 Program to traverse the graph below in the depth first fashion
 Developed by: NISHA D 
 RegisterNumber: 212223230143
-*/
+
 
 /*#include<stdio.h> 
 #include<stdlib.h>
