@@ -1,5 +1,5 @@
 # Ex 5E Adjacency List Representation
-## DATE:
+## DATE:2-5-2025
 ## AIM:
 To write a C program to represent the given graph using the adjacency list.
 
